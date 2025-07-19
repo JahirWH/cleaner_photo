@@ -1,9 +1,11 @@
 [package]
 name = "cleaner_photo"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 
 [dependencies]
 walkdir = "2.4"
 indicatif = "0.17"
 anyhow = "1.0"
+ctrlc = "3.4"
+wait-timeout = "0.2"
