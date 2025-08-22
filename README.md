@@ -1,7 +1,5 @@
 <div align="center"><img src="title.png"></div>
 
-#  Cleaner Photo - Optimizador de Imágenes y Videos
-
 Un optimizador rápido y eficiente escrito en Rust que limpia metadatos, optimiza imágenes (JPG, PNG, HEIC) y videos (MP4, MOV) para ahorrar espacio de almacenamiento masivamente.
 
 ##  Características / Features
